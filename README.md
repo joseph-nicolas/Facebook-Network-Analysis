@@ -22,19 +22,13 @@ Starting from a single edge-list file, the analysis runs through three connected
 <table style="width: 100%; border-collapse: collapse;">
   <tr>
     <td style="border: 1px solid #ddd; padding: 10px; text-align: center;">
-      <img src="assets/facebook_network.png" alt="Facebook ego-network spring layout" style="width: 470px; height: auto;">
+      <img src="assets/facebook_network.png" alt="Facebook ego-network spring layout" style="width: 420px; height: auto;">
     </td>
     <td style="border: 1px solid #ddd; padding: 10px; text-align: center;">
       <img src="assets/edge_centrality_dist.png" alt="Distribution of edge betweenness centrality" style="width: 700px; min-height: 520px; height: auto;">
     </td>
   </tr>
-  <tr>
-    <td style="border: 1px solid #ddd; padding: 10px; text-align: center;">
-      <img src="assets/community_comparison.png" alt="Louvain versus Label Propagation community sizes" style="max-width: 350px; height: auto;">
-    </td>
-    <td style="border: 1px solid #ddd; padding: 10px; text-align: center;">
-      <i style="font-style: italic; color: #555;">All visualizations are available in the `assets/` folder.</i>
-    </td>
-  </tr>
 </table>
+
+*All visualizations are available in the `assets/` folder.*
 
