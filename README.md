@@ -15,7 +15,7 @@ Starting from a single edge-list file, the analysis runs through three connected
 ## Key Findings
 
 - **Overall structure.** The network has **4,039 nodes** and **88,234 edges** with very low density (~1%), meaning connections are sparse and most users have only a few links.
-- **Bridges matter.** Edge betweenness centrality is extremely skewed — nearly all edges carry near-zero importance, while a small fraction connect otherwise separate communities. Removing them would fragment the network.
+- **Bridges matter.** Edge betweenness centrality is extremely skewed. So nearly all edges carry near-zero importance, while a small fraction connect otherwise separate communities. Removing them would fragment the network.
 - **Community structure.** Both algorithms confirm strong groupings (Louvain modularity **0.835**). Louvain finds **16** larger, evenly-decaying communities, while Label Propagation finds **44** with a much steeper size distribution.
 
 ## Images
