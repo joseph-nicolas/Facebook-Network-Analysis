@@ -20,13 +20,15 @@ Starting from a single edge-list file, the analysis runs through three connected
 
 ## Images
 
+## Images
+
 <table style="width: 100%; border-collapse: collapse;">
   <tr>
     <td style="border: 1px solid #ddd; padding: 10px; text-align: center;">
       <img src="assets/facebook_network.png" alt="Facebook ego-network spring layout" style="width: 470px; height: auto;">
     </td>
     <td style="border: 1px solid #ddd; padding: 10px; text-align: center;">
-      <img src="assets/edge_centrality_dist.png" alt="Distribution of edge betweenness centrality" style="width: 470px; height: auto;">
+      <img src="assets/edge_centrality_dist.png" alt="Distribution of edge betweenness centrality" style="width: 580px; height: auto;">
     </td>
   </tr>
   <tr>
@@ -39,9 +41,3 @@ Starting from a single edge-list file, the analysis runs through three connected
   </tr>
 </table>
 
-## Getting Started
-
-1. Place `facebook_combined-1.txt` in the repository root.
-2. Run the notebook from the top cell — it loads the network and walks through each analysis stage in order.
-
-No external setup is required beyond the packages listed above.
