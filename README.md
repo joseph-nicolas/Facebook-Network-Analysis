@@ -25,7 +25,7 @@ Starting from a single edge-list file, the analysis runs through three connected
       <img src="assets/facebook_network.png" alt="Facebook ego-network spring layout" style="width: 420px; height: auto;">
     </td>
     <td style="border: 1px solid #ddd; padding: 10px; text-align: center;">
-      <img src="assets/edge_centrality_dist.png" alt="Distribution of edge betweenness centrality" style="width: 700px; min-height: 520px; height: auto;">
+      <img src="assets/edge_centrality_dist.png" alt="Distribution of edge betweenness centrality" style="width: 400px; min-height: 520px; height: auto;">
     </td>
   </tr>
 </table>
